@@ -1,3 +1,18 @@
+["0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"], [1000000], 0x
+
+usdc on base                                      amount    0x
+
+
+
+
+
+
+
+
+
+
+
+
 # Cookbook.dev
 
 ## Find any smart contract, build your project faster
